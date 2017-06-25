@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Item-list {
+  list-style: none;
+
+}
+
+.Item-list li {
+  border-bottom: 1px solid white;
+  width: 20%;
+  height: 1.5em;
+  margin-bottom: 10px;
+  text-align: center;
+  color: white;
+  letter-spacing: 3px;
+}
