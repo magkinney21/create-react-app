@@ -25,5 +25,10 @@
       "prettier --trailing-comma es5 --single-quote --write",
       "git add"
     ]
+  },
+  "dependencies": {
+    "apollo-test-utils": "^0.3.2",
+    "graphql": "^0.10.3",
+    "graphql-tools": "^1.0.0"
   }
 }

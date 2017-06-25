@@ -17,12 +17,12 @@
   font-size: large;
 }
 
-.Item-list {
+ul{
   list-style: none;
 
 }
 
-.Item-list li {
+li {
   border-bottom: 1px solid white;
   width: 20%;
   height: 1.5em;
